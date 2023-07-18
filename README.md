@@ -13,7 +13,7 @@
     「 I am a full stack web appplication developer Junior from <b>Lyon</b> 」
     <br>
     <br>
-    Take a look at my CV (resume) <a href="#" onclick='window.open("https://drive.google.com/file/d/1B0lftrRJSQbuGPFvNB9uB98vDUPO8hMV/view?usp=drive_link");return false;'> here </a>
+    Take a look at my CV (resume) <a target="_blank" href="https://drive.google.com/file/d/1B0lftrRJSQbuGPFvNB9uB98vDUPO8hMV/view?usp=drive_link"> here</a>
     
   </samp>
 </p>

@@ -13,7 +13,7 @@
     「 I am a full stack web appplication developer Junior from <b>Lyon</b> in France 」
     <br>
     <br>
-    Take a look at my CV (resume) <a target="_blank" href="https://drive.google.com/file/d/1B0lftrRJSQbuGPFvNB9uB98vDUPO8hMV/view?usp=drive_link"> here</a> and my cover letter <a target="_blank" href="https://docs.google.com/document/d/1hVufxBczSJI6CmIMuSwOql4KX5aNED6P/edit?usp=drive_link&ouid=109626395472636518439&rtpof=true&sd=true"> here</a>
+    Take a look at my CV (resume) <a target="_blank" href="https://drive.google.com/file/d/1B0lftrRJSQbuGPFvNB9uB98vDUPO8hMV/view?usp=drive_link"> here</a> and my cover letter <a target="_blank" href="https://drive.google.com/file/d/1sJX_fRRRoZWdOgqZvtLtuvgq1O_MJwbj/view?usp=drive_link"> here</a>
     
   </samp>
 </p>
